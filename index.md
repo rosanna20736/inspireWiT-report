@@ -2,11 +2,11 @@
 
 inspireWiT 2018 was held at the [Broadway cinema](http://www.broadway.org.uk/) in central Nottingham. Our aims for the conference were:
 
--To showcase brilliant women and people of gender minorities in tech
--To inspire and encourage women and gender minorities to get involved in tech
--To provide a network for those already in the field
--To encourage people of all genders to consider diversity
--To have fun, meet new people and learn new things!
+- To showcase brilliant women and people of gender minorities in tech
+- To inspire and encourage women and gender minorities to get involved in tech
+- To provide a network for those already in the field
+- To encourage people of all genders to consider diversity
+- To have fun, meet new people and learn new things!
 
 Thank you so much for helping us to achieve those goals.
 
