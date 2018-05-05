@@ -47,14 +47,16 @@ The numbers collected have reflected how well we feel the day went. The averages
 - :bread: Food: 8.1/10
 - :information_desk_person: Team: 9.2/10
 
-We also collected which sponsors the attendees listed as their favourites and what they stated as their favourite piece of content of the day. People liked the sponsors for many reasons including appearing to be inclusive and genuinely committed to employing more women, hosting fun activities and having kind representatives to talk to and contirbuting great content to the day. 
+We also collected which sponsors the attendees listed as their favourites and what they stated as their favourite piece of content of the day. People liked the sponsors for many reasons including appearing to be inclusive and genuinely committed to employing more women, hosting fun activities and having kind representatives to talk to and contirbuting great content to the day. All of the content was received really well - I don't think we can draw great conclusions on what the most valued content was since the attendees were spread between so many (**11!**) different workshops and we don't have the numbers on what workshops the attendees that filled out the feedback form went to but it's certainly nice that almost all of them got a mention!
 
 <iframe style="width: 960px; height: 600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQReUPefpIIe2KtGSb6Twyf4uyEkKtjp_Z9hV3IA4pJ4rfxjQ_aFZ0vel8oIZ9QacR6AKpeWtUwGbWT/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Photos!
 
-[Facebook photo album](https://www.facebook.com/media/set/?set=a.2080875002148813.1073741831.1689814531254864&type=1&l=6c551e931e)
+Take a look at the photos our brilliant photographer, Rose Kasili :camera:, took on our [Facebook photo album](https://www.facebook.com/media/set/?set=a.2080875002148813.1073741831.1689814531254864&type=1&l=6c551e931e)
 
 ## What next?
 
+I'd like to say one last :purple_heart: **HUGE THANK YOU** :purple_heart: for all of your support in helping the event happen. If you would like a debriefing call then I would be more than happy to have one so please feel free to arrange one with me, or to send any other questions you have on the event via email.
 
+The conference will be running again **next year**! Alexa Spors, who did all the graphic design for this years' event as well as providing lots of other organisational help, will be taking over as lead organiser next year with help from Hazel Seanor, who ran the Web Scraping and Bot Making with Python workshop and provided organisational support this year.
