@@ -47,9 +47,9 @@ The numbers collected have reflected how well we feel the day went. The averages
 - :bread: Food: 8.1/10
 - :information_desk_person: Team: 9.2/10
 
+We also collected which sponsors the attendees listed as their favourites and what they stated as their favourite piece of content of the day. People liked the sponsors for many reasons including appearing to be inclusive and genuinely committed to employing more women, hosting fun activities and having kind representatives to talk to and contirbuting great content to the day. 
 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQReUPefpIIe2KtGSb6Twyf4uyEkKtjp_Z9hV3IA4pJ4rfxjQ_aFZ0vel8oIZ9QacR6AKpeWtUwGbWT/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe style="width: 960px; height: 600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQReUPefpIIe2KtGSb6Twyf4uyEkKtjp_Z9hV3IA4pJ4rfxjQ_aFZ0vel8oIZ9QacR6AKpeWtUwGbWT/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Photos!
 
