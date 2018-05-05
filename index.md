@@ -24,13 +24,18 @@ Of those willing to state their gender on our booking form, 80% of our attendees
 
 ## What people thought
 
-Feedback from the event has been really positive. In particular, we had a huge amount of involvement on twitter - we collected the highlights:
-<div style=".timeline .stream { height: 600px !important;}
-ol.h-feed {height:600px !important;}">
-<a class="twitter-moment" href="https://twitter.com/i/moments/982925267114053633?ref_src=twsrc%5Etfw">#inspireWIT 2018</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+Feedback from the event has been really positive. In particular, we had a huge amount of involvement on twitter - we collected the highlights [here](https://twitter.com/i/moments/982925267114053633)
 
-Some quotes from the above tweets and from our feedback form:
+Here are some of our favourite quotes from the above tweets and from our feedback form:
 
-> 
+> it was really well put together! liked that you had an lgbt woman on the panel, and asking for pronouns on attendee's tags was really thoughtful. overall I wasn't sure what to expect but really enjoyed it, and all the other attendees I spoke to were fantastic. oh and the scarf is amazing! it's clear that a lot of work went into putting the day together and i enjoyed all of it/glad I came.
+
+> A heartfelt thank you to the entire team and sponsors who made this event possible! I've been trying to teach myself Python, and it means a lot to be able to be at an event like this to meet others who also have varying degrees of expertise and engage in topics that I normally don't get to interact much with day to day. ... THANK YOU for keeping this free and accessible to all in its truest form
+
+> Really well organised, excellent atmosphere, I came away very inspired!
+
+> I’m so glad that @inspireWIT was my first conference. Couldn’t have asked for a better day!
+
+> @inspireWIT has turned out to be a conference where every single person attending had the chance to open themselves to their true interests and dreams. One thing every single speaker had in common (@paulienuh among them) is their passion for what they do.
+
 
