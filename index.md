@@ -25,7 +25,7 @@ Of those willing to state their gender on our booking form, 80% of our attendees
 ## What people thought
 
 Feedback from the event has been really positive. In particular, we had a huge amount of involvement on twitter - we collected the highlights:
-<a class="twitter-moment" href="https://twitter.com/i/moments/982925267114053633?ref_src=twsrc%5Etfw">#inspireWIT 2018</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a style="height: 600px" class="twitter-moment" href="https://twitter.com/i/moments/982925267114053633?ref_src=twsrc%5Etfw">#inspireWIT 2018</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Some quotes from the above tweets and from our feedback form:
 
