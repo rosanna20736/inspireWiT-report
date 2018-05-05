@@ -1,4 +1,4 @@
-## Thank YOU for making inspireWiT 2018 happen! :sparkling_heart: :sparkles:
+## Thank **YOU** for making inspireWiT 2018 happen! :sparkling_heart: :sparkles:
 
 inspireWiT 2018 was held at the [Broadway cinema](http://www.broadway.org.uk/) in central Nottingham. Our aims for the conference were:
 
@@ -22,9 +22,9 @@ Of those willing to state their gender on our booking form, 80% of our attendees
 
 <iframe style="width: 960px; height: 600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVt0YE87fXQkQJg5_sL2qk87_1xPSvM5VeImlDotsfsz5Apd714OaLihEkYDV-h9LBD7dxdDi81zhA/pubhtml?widget=true&amp;headers=false"></iframe>
 
-## What people thought
+## Our feedback highlights
 
-Feedback from the event has been really positive. In particular, we had a huge amount of involvement on twitter - we collected the highlights [here](https://twitter.com/i/moments/982925267114053633)
+Feedback from the event has been really positive. In particular, we had a huge amount of involvement on twitter - we collected the :purple_heart: highlights :purple_heart: [here](https://twitter.com/i/moments/982925267114053633)
 
 Here are some of our favourite quotes from the above tweets and from our feedback form:
 
@@ -37,5 +37,24 @@ Here are some of our favourite quotes from the above tweets and from our feedbac
 > I’m so glad that @inspireWIT was my first conference. Couldn’t have asked for a better day!
 
 > @inspireWIT has turned out to be a conference where every single person attending had the chance to open themselves to their true interests and dreams. One thing every single speaker had in common (@paulienuh among them) is their passion for what they do.
+
+## More feedback: in numbers
+
+The numbers collected have reflected how well we feel the day went. The averages we received are:
+
+- :computer: Overall content of the day: 7.9/10
+- :cinema: Venue: 8.2/10
+- :bread: Food: 8.1/10
+- :information_desk_person: Team: 9.2/10
+
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQReUPefpIIe2KtGSb6Twyf4uyEkKtjp_Z9hV3IA4pJ4rfxjQ_aFZ0vel8oIZ9QacR6AKpeWtUwGbWT/pubhtml?widget=true&amp;headers=false"></iframe>
+
+## Photos!
+
+[Facebook photo album](https://www.facebook.com/media/set/?set=a.2080875002148813.1073741831.1689814531254864&type=1&l=6c551e931e)
+
+## What next?
 
 
