@@ -59,4 +59,4 @@ Take a look at the photos our brilliant photographer, Rose Kasili :camera:, took
 
 I'd like to say one last :purple_heart: **HUGE THANK YOU** :purple_heart: for all of your support in helping the event happen. If you would like a debriefing call then I would be more than happy to have one so please feel free to arrange one with me, or to send any other questions you have on the event via email.
 
-The conference will be running again **next year**! Alexa Spors, who did all the graphic design for this years' event as well as providing lots of other organisational help, will be taking over as lead organiser next year with help from Hazel Seanor, who ran the Web Scraping and Bot Making with Python workshop and provided organisational support this year.
+The conference will be running again **next year**! Alexa Spors, who did all the graphic design for this years' event as well as providing lots of other organisational help, will be taking over as lead organiser with help from Hazel Seanor, who ran the Web Scraping and Bot Making with Python workshop and provided organisational support this year.
