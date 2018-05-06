@@ -10,6 +10,8 @@ inspireWiT 2018 was held at the [Broadway cinema](http://www.broadway.org.uk/) i
 
 Thank you so much for helping us to achieve those goals.
 
+<img src="GeneralCollage.jpg" alt="Collage of inspireWiT images with thank you for coming slide in the centre">
+
 ## The important bit
 
 We sent out a feedback form to our attendees and got 39 responses. Of these **100%** said they felt the event was comfortable and inclusive and **90%** of them got to know someone they didn't know before the event. The comfort of our attendees and facilitating interactions are extremely important aspects of the event to us so we are _thrilled_ with this! :purple_heart:
