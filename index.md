@@ -34,9 +34,9 @@ Here are some of our favourite quotes from the above tweets and from our feedbac
 
 > Really well organised, excellent atmosphere, I came away very inspired!
 
-> I’m so glad that @inspireWIT was my first conference. Couldn’t have asked for a better day!
+> I’m so glad that inspireWIT was my first conference. Couldn’t have asked for a better day!
 
-> @inspireWIT has turned out to be a conference where every single person attending had the chance to open themselves to their true interests and dreams. One thing every single speaker had in common (@paulienuh among them) is their passion for what they do.
+> inspireWIT has turned out to be a conference where every single person attending had the chance to open themselves to their true interests and dreams. One thing every single speaker had in common is their passion for what they do.
 
 ## More feedback: in numbers
 
