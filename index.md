@@ -55,7 +55,7 @@ We also collected which sponsors the attendees listed as their favourites and wh
 
 ## Photos!
 
-Take a look at the photos our brilliant photographer, Rose Kasili :camera:, took on our [Facebook photo album](https://www.facebook.com/media/set/?set=a.2080875002148813.1073741831.1689814531254864&type=1&l=6c551e931e)
+Take a look at the photos taken by our brilliant photographer, Rose Kasili :camera:, on our [Facebook photo album](https://www.facebook.com/media/set/?set=a.2080875002148813.1073741831.1689814531254864&type=1&l=6c551e931e) or in the [Google Drive folder](https://drive.google.com/drive/folders/1CIVy6J--1nwbRMqLfjFdOjIvvktflrLH?usp=sharing).
 
 ## What next?
 
